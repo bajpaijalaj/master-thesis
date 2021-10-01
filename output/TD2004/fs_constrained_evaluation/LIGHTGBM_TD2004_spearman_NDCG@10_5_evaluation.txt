@@ -1,0 +1,1 @@
+[{'fold': 'Fold1', 'accuracy': 0.24588753, 'count': 2, 'subset': [22, 26]}, {'fold': 'Fold2', 'accuracy': 0.25891808, 'count': 2, 'subset': [23, 28]}, {'fold': 'Fold3', 'accuracy': 0.3150799, 'count': 2, 'subset': [16, 26]}, {'fold': 'Fold4', 'accuracy': 0.19511093, 'count': 2, 'subset': [14, 26]}, {'fold': 'Fold5', 'accuracy': 0.23082143, 'count': 2, 'subset': [0, 7]}]

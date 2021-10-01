@@ -1,0 +1,1 @@
+[{'ranking': 'LIGHTGBM', 'dataset': 'MSLR-WEB10K', 'accuracy': 0.48829540610313416, 'features': 136, 'Fold1': 0.4882954, 'Fold2': 0, 'Fold3': 0, 'Fold4': 0, 'Fold5': 0}]

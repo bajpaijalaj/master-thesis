@@ -1,0 +1,1 @@
+[{'fold': 'Fold1', 'accuracy': 0.474737}]

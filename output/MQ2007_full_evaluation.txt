@@ -1,0 +1,2 @@
+[{'ranking': 'XGBOOST', 'dataset': 'MQ2007', 'accuracy': 0.5043253600597382, 'features': 46, 'Fold1': 0.5455781, 'Fold2': 0.49619827, 'Fold3': 0.49967816, 'Fold4': 0.4845103, 'Fold5': 0.49566194}, 
+{'ranking': 'LIGHTGBM', 'dataset': 'MQ2007', 'accuracy': 0.5208591938018798, 'features': 46, 'Fold1': 0.5443305, 'Fold2': 0.51771575, 'Fold3': 0.53366125, 'Fold4': 0.49210703, 'Fold5': 0.51648146}]

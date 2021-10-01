@@ -1,0 +1,1 @@
+[{'fold': 'Fold1', 'accuracy': 0.3641891}, {'fold': 'Fold2', 'accuracy': 0.32654566}, {'fold': 'Fold3', 'accuracy': 0.2107332}, {'fold': 'Fold4', 'accuracy': 0.2539431}, {'fold': 'Fold5', 'accuracy': 0.1348538}]
